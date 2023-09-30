@@ -1,15 +1,12 @@
-[
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls",
-      "delegate_permission/common.get_login_creds"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.passkeyexample",
-      "sha256_cert_fingerprints": [
-        "BA:B3:88:D3:2E:43:EF:BF:AC:36:70:09:39:3D:A4:7F:80:8A:9C:58:74:8E:FB:19:70:D0:9B:43:2C:F4:30:78"
-      ]
-    }
+[{
+  "relation": [
+    "delegate_permission/common.handle_all_urls",
+    "delegate_permission/common.get_login_creds"
+  ],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.passkeyexample",
+    "sha256_cert_fingerprints":
+    ["FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"]
   }
-]
+}]
