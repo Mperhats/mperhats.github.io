@@ -6,8 +6,6 @@ author:	Mike Perhats
 description: useful links to useful protocols
 
 ---
-
-## Protocols
 useful links to protocol networks.
 
 - [Teleport](https://www.trip.dev/) - decentralized rideshare
