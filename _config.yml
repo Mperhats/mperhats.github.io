@@ -1,1 +1,9 @@
-include: [".well-known"]
+title: Mike Perhats
+email: mike@noshdelivery.co
+description: co-founder @nosh, ceo @palette-labs-inc
+url: "https://example.org"
+twitter: mike_perhats
+permalink: /:categories/:title:output_ext
+markdown: kramdown
+plugins:
+  - jekyll-feed
