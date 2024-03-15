@@ -1,3 +1,3 @@
 # mperhats.github.io
 
-example site for serving associated domians
+example site for serving associated domians.
