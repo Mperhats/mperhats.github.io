@@ -1,3 +1,2 @@
-# mperhats.github.io
 
-example site for serving associated domians.
+personal site + example for easy hosting of associated domains.
